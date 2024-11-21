@@ -1,2 +1,2 @@
 # PEARL
-[figure1.pdf](https://github.com/user-attachments/files/17848454/figure1.pdf)
+![figure](https://github.com/user-attachments/assets/87c5a0ab-fbfa-493a-a78a-cf0316f55435)
