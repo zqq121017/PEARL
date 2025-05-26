@@ -3,7 +3,7 @@
 ![figure1_PEARL](https://github.com/user-attachments/assets/caa66e48-6155-4619-93fe-7816aae24d33)
 PEARL (Pearson-Enhanced spectrAl gRaph convoLutional networks) is a multi-omics integration method based on deep graph learning for biomedical classification and functional important omics feature identification. PEARL leverages a simple yet effective learning architecture to achieve superior and robust performance especially in high-dimensional and low-sample-size multi-omics settings.
 
-**Key Features**
+**Key Features**  
 •	Robust Multi-omics Integration: Effectively combines multiple types of omics data (e.g., mRNA, methylation, miRNA) for improved classification performance  
 •	Biomarker Discovery: Identifies functionally important omics features that contribute to prediction  
 •	Superior Performance: Outperforms state-of-the-art methods in both synthetic and real datasets  
@@ -17,13 +17,13 @@ PEARL consists of three key components:
 3.	Feature Integration: Unifies features using either combined pooling or concatenation methods
 
 **Tested Environment**
-PEARL has been developed and tested with:
-•	Python: 3.12.7
-•	PyTorch: 2.6.0+cu126 (with CUDA 12.6 support)
-•	PyTorch Geometric: 2.6.1
-•	NumPy: 1.26.4
-•	Pandas: 2.2.2
-•	Scikit-learn: 1.5.1
+PEARL has been developed and tested with:  
+•	Python: 3.12.7  
+•	PyTorch: 2.6.0+cu126 (with CUDA 12.6 support)  
+•	PyTorch Geometric: 2.6.1  
+•	NumPy: 1.26.4  
+•	Pandas: 2.2.2  
+•	Scikit-learn: 1.5.1  
 •	SciPy: 1.13.1
 
 **Usage**
@@ -81,6 +81,6 @@ Running the Complete Pipeline
 # For biomarker identification
 python main_biomarker.py
 ```
-**Acknowledgments**
-•	The ROSMAP dataset was obtained from AMP-AD Knowledge Portal ([AD Knowledge Portal]([url](https://adknowledgeportal.synapse.org/)))
+**Acknowledgments**  
+•	The ROSMAP dataset was obtained from AMP-AD Knowledge Portal ([AD Knowledge Portal]([url](https://adknowledgeportal.synapse.org/)))  
 •	BRCA omics data was obtained from The Cancer Genome Atlas Program (TCGA) through Broad GDAC Firehose ([Broad GDAC Firehose]([url](https://gdac.broadinstitute.org/)))
