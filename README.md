@@ -82,5 +82,5 @@ Running the Complete Pipeline
 python main_biomarker.py
 ```
 **Acknowledgments**  
-•	The ROSMAP dataset was obtained from AMP-AD Knowledge Portal ([AD Knowledge Portal]([https://adknowledgeportal.synapse.org/]))  
-•	BRCA omics data was obtained from The Cancer Genome Atlas Program (TCGA) through Broad GDAC Firehose ([Broad GDAC Firehose]([url](https://gdac.broadinstitute.org/)))
+•	The ROSMAP dataset was obtained from AMP-AD Knowledge Portal ([AD Knowledge Portal](https://adknowledgeportal.synapse.org/))  
+•	BRCA omics data was obtained from The Cancer Genome Atlas Program (TCGA) through Broad GDAC Firehose ([Broad GDAC Firehose](https://gdac.broadinstitute.org/))
