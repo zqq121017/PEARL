@@ -4,10 +4,10 @@
 PEARL (Pearson-Enhanced spectrAl gRaph convoLutional networks) is a multi-omics integration method based on deep graph learning for biomedical classification and functional important omics feature identification. PEARL leverages a simple yet effective learning architecture to achieve superior and robust performance especially in high-dimensional and low-sample-size multi-omics settings.
 
 **Key Features**
-•	Robust Multi-omics Integration: Effectively combines multiple types of omics data (e.g., mRNA, methylation, miRNA) for improved classification performance
-•	Biomarker Discovery: Identifies functionally important omics features that contribute to prediction
-•	Superior Performance: Outperforms state-of-the-art methods in both synthetic and real datasets
-•	Sample Efficiency: Maintains robust performance even with limited sample sizes
+•	Robust Multi-omics Integration: Effectively combines multiple types of omics data (e.g., mRNA, methylation, miRNA) for improved classification performance  
+•	Biomarker Discovery: Identifies functionally important omics features that contribute to prediction  
+•	Superior Performance: Outperforms state-of-the-art methods in both synthetic and real datasets  
+•	Sample Efficiency: Maintains robust performance even with limited sample sizes  
 •	Biological Interpretability: Identifies disease-associated genes and pathways with significant enrichment in relevant biological processes
 
 **Model Architecture**
