@@ -1,6 +1,6 @@
 # PEARL
-**Overview**
 ![figure1_PEARL1](https://github.com/user-attachments/assets/9fcf0c8e-9335-4144-9840-73c68569fa26)
+**Overview**  
 PEARL (Pearson-Enhanced spectrAl gRaph convoLutional networks) is a multi-omics integration method based on deep graph learning for biomedical classification and functional important omics feature identification. PEARL leverages a simple yet effective learning architecture to achieve superior and robust performance especially in high-dimensional and low-sample-size multi-omics settings ([Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1)). 
 
 **Key Features**  
@@ -10,13 +10,13 @@ PEARL (Pearson-Enhanced spectrAl gRaph convoLutional networks) is a multi-omics 
 •	Sample Efficiency: Maintains robust performance even with limited sample sizes  
 •	Biological Interpretability: Identifies disease-associated genes and pathways with significant enrichment in relevant biological processes
 
-**Model Architecture**
+**Model Architecture**  
 PEARL consists of three key components:
 1.	Similarity Network Construction: Uses weighted Pearson correlation to construct sample similarity networks for different omics data types
 2.	Feature Refinement: Employs Simple Spectral Graph Convolutional Networks (SSGConv) to enhance feature representation
 3.	Feature Integration: Unifies features using either combined pooling or concatenation methods
 
-**Tested Environment**
+**Tested Environment**  
 PEARL has been developed and tested with:  
 •	Python: 3.12.7  
 •	PyTorch: 2.6.0+cu126 (with CUDA 12.6 support)  
@@ -28,7 +28,7 @@ PEARL has been developed and tested with:
 
 **Usage**
 
-**Cross-Validation**
+**Cross-Validation**  
 PEARL implements a comprehensive cross-validation framework using StratifiedShuffleSplit:
 ```
 from sklearn.model_selection import StratifiedShuffleSplit
